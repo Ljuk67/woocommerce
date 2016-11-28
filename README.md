@@ -1,2 +1,2 @@
 # woocommerce
-stop cropping images, keep same height
+useful WP Woocommerce snippets
